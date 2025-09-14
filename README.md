@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with me:
 
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 10 px;">
   <a href="https://www.instagram.com/_rohansalunkhe?igsh=MXU2NGMwMzl3MW5pcw==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
