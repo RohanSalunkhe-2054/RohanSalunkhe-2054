@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with me:
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.instagram.com/_rohansalunkhe?igsh=MXU2NGMwMzl3MW5pcw==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
@@ -19,7 +19,8 @@
   <a href="https://www.linkedin.com/in/rohan-salunkhe-6a4b68262/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
+
 
 ---
 
